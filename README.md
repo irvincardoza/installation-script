@@ -1,4 +1,5 @@
 # Package Checker Script
+By irvin cardoza
 
 This repository contains `script.py`, a script designed to make downloading and managing Python packages easier by comparing the currently installed packages with those specified in `requirements.txt`.
 
@@ -20,8 +21,8 @@ The `script.py` script takes the output of the `pip list` command as input, proc
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/irvincardoza/installation-script.git
+   
     ```
 
 2. **Prepare the `requirements.txt` File**:
